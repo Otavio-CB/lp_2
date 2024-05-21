@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+k
+;exercicio1/src/main/java/edu/fatec/lp2/exercicio1/Main.java,9/3/937ddb3590a7cdb599151efd6031c9f682450d8c
+s
+Cexercicio1/src/main/java/edu/fatec/lp2/exercicio1/app/Whatsapp.java,1/7/17d00ee3ccb853ba2d6b419ca9169c7a3bfc1cb0
+y
+Iexercicio1/src/main/java/edu/fatec/lp2/exercicio1/contato/Contatinho.java,e/3/e39550d2836fc892a6f61c640b807ae1f82a3320
+k
+;exercicio2/src/main/java/edu/fatec/lp2/exercicio2/Main.java,9/c/9c1a0623db67faba3e1ed808529452a731ab46e0
+~
+Nexercicio2/src/main/java/edu/fatec/lp2/exercicio2/supermercado/Calculavel.java,0/b/0b859410b65350ace29470790db00b9733afe9aa
+~
+Nexercicio2/src/main/java/edu/fatec/lp2/exercicio2/supermercado/ItemCompra.java,8/c/8c56711a872fa9d09f33b129f48782e8cc7cc8c9
+
+Oexercicio2/src/main/java/edu/fatec/lp2/exercicio2/supermercado/ListaCompra.java,2/6/26b9c2030cd2c7d57551c66c3140f8500e348f64
+{
+Kexercicio2/src/main/java/edu/fatec/lp2/exercicio2/supermercado/Produto.java,2/0/20a43e1d7e5403a642d01e2631444064c188d452
+€
+Pexercicio2/src/main/java/edu/fatec/lp2/exercicio2/supermercado/Supermercado.java,d/9/d99beff0809fddc0cbc53244b9dfa64742d683ff
